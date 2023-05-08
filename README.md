@@ -1,5 +1,5 @@
 # robox
-a small robotic car made using arduino
+A small robotic car made using arduino
 
 
 Aim:
